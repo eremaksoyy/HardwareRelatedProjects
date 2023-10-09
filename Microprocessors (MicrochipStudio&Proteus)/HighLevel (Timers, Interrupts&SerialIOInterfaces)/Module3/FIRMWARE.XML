@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FIRMWARE FAMILY="AVR" COMPILER="AVRASM (Proteus)" TYPE="ATmega128">
+ <PROJECTS>
+  <STRING>ATMEGA128_1</STRING>
+ </PROJECTS>
+</FIRMWARE>

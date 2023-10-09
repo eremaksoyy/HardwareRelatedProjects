@@ -1,0 +1,19 @@
+# All text on a line after "#" is a comment
+# Blank lines and additional spaces are ignored
+# Numbers in [brackets] after an input/output name indicate how many bits the "pin" has
+# A test value set to "x" is a don't care, but if you set an _input_ to don't care then 
+# Logisim will make sure you get the expected output for *all possible values of the input*.
+
+A B  Carry_In Result Carry_Out
+0 0  0          0       0
+0 0  1          1       0    
+0 1  0          1       0
+0 1  1          0       1
+1 0  0          1       0
+1 0  1          0       1
+1 1  0          0       1  
+1 1  1          1       1 
+
+
+
+
